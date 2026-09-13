@@ -1,7 +1,10 @@
 .kartu {
-   text-align: center;
+   /* text-align: center; */
    margin: 20px;
    padding: 35px;
+}
+h1, p {
+   text-align: center;
 }
 .kartu-form {
    /* text-align: center; */
