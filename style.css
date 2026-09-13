@@ -1,0 +1,12 @@
+.kartu {
+   text-align: center;
+   margin: 20px;
+   padding: 35px;
+}
+.kartu-form {
+   /* text-align: center; */
+   margin: 20px;
+   padding: 35px;
+   background-color: whitesmoke;
+   border-radius: 12px;
+}
